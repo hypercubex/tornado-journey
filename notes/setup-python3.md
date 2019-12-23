@@ -15,3 +15,12 @@
 
 Reference:
 <https://installpython3.com/mac/>
+
+## Anaconda
+
+Just in case need to play with TenzorFlow or some more data science stuff
+
+`brew cask install anaconda`
+
+Reference:
+<https://medium.com/ayuth/install-anaconda-on-macos-with-homebrew-c94437d63a37>
